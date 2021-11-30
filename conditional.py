@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Tue Nov 30 22:52:53 2021
 
-@author: hp
+@author: Samiha
 """
 # Given an integer, n, perform the following conditional actions:
 # If  n is odd, print Weird
